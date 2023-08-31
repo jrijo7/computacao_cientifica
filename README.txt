@@ -1,0 +1,1 @@
+Este repositório tem por finalidade compartilhar meus conhecimentos obtidos durante o curso de Computação Científica 1 da Universidade Federal do Rio de Janeiro (UFRJ).
